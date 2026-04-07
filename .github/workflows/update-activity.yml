@@ -5,21 +5,14 @@ on:
     - cron: '0 */6 * * *'  # every 6 hours
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-activity:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      # Intercept `git push` so the action commits locally but never pushes.
-      # We decide below whether to push, based on whether README.md actually changed.
-      - name: Install git push interceptor
-        run: |
-          mkdir -p "$HOME/.local/bin"
-          printf '#!/bin/sh\nif [ "$1" = "push" ]; then echo "push intercepted"; exit 0; fi\nexec /usr/bin/git "$@"\n' \
-            > "$HOME/.local/bin/git"
-          chmod +x "$HOME/.local/bin/git"
-          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
 
       - uses: jamesgeorge007/github-activity-readme@v0.5.0
         env:
@@ -27,8 +20,3 @@ jobs:
         with:
           COMMIT_MSG: 'chore: update recent activity'
           MAX_LINES: 10
-
-      # Push only when the action's local commit actually changed README.md.
-      - name: Push if activity changed
-        run: |
-          /usr/bin/git diff HEAD~1 HEAD --quiet -- README.md || /usr/bin/git push
