@@ -19,6 +19,13 @@
 - 📚 **[gatherly](https://github.com/Minoo7/gatherly-new)** – AI-powered content manager: save links, rank them with Swiss tournament ELO, and search semantically
 - 🚀 **[potential-flow-scouting-sc2](https://github.com/Minoo7/potential-flow-scouting-sc2)** – StarCraft II scouting agent using physics-based potential flow navigation
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Minoo7)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minoo7&show_icons=true&theme=dark&hide_border=true)
