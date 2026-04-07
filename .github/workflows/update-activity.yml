@@ -16,3 +16,13 @@ jobs:
         with:
           COMMIT_MSG: 'chore: update recent activity'
           MAX_LINES: 10
+          DISABLE_EVENTS: ''
+      - name: Commit if activity changed
+        run: |
+          git diff --quiet README.md || (
+            git config user.name "github-actions[bot]" &&
+            git config user.email "github-actions[bot]@users.noreply.github.com" &&
+            git add README.md &&
+            git commit -m "chore: update recent activity" &&
+            git push
+          )
