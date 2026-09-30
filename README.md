@@ -24,12 +24,12 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Minoo7)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#99](https://github.com/excalidraw/excalidraw-mcp/issues/99) in [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)
-2. 🗣 Commented on [#1](https://github.com/Plana-Solutions/pstack/pull/1#issuecomment-5894958068) in [Plana-Solutions/pstack](https://github.com/Plana-Solutions/pstack)
-3. 🗣 Commented on [#1](https://github.com/Plana-Solutions/pstack/pull/1#issuecomment-5894852189) in [Plana-Solutions/pstack](https://github.com/Plana-Solutions/pstack)
-4. 🗣 Commented on [#1](https://github.com/Plana-Solutions/pstack/pull/1#issuecomment-5894640901) in [Plana-Solutions/pstack](https://github.com/Plana-Solutions/pstack)
-5. 🗣 Commented on [#1](https://github.com/Plana-Solutions/pstack/pull/1#issuecomment-5894590626) in [Plana-Solutions/pstack](https://github.com/Plana-Solutions/pstack)
-6. 🗣 Commented on [#1](https://github.com/Plana-Solutions/pstack/pull/1#issuecomment-5894469108) in [Plana-Solutions/pstack](https://github.com/Plana-Solutions/pstack)
+1. ❗ Opened issue [#189](https://github.com/depot/docs/issues/189) in [depot/docs](https://github.com/depot/docs)
+2. ❗ Opened issue [#99](https://github.com/excalidraw/excalidraw-mcp/issues/99) in [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)
+3. 🗣 Commented on [#1](https://github.com/Plana-Solutions/pstack/pull/1#issuecomment-5894958068) in [Plana-Solutions/pstack](https://github.com/Plana-Solutions/pstack)
+4. 🗣 Commented on [#1](https://github.com/Plana-Solutions/pstack/pull/1#issuecomment-5894852189) in [Plana-Solutions/pstack](https://github.com/Plana-Solutions/pstack)
+5. 🗣 Commented on [#1](https://github.com/Plana-Solutions/pstack/pull/1#issuecomment-5894640901) in [Plana-Solutions/pstack](https://github.com/Plana-Solutions/pstack)
+6. 🗣 Commented on [#1](https://github.com/Plana-Solutions/pstack/pull/1#issuecomment-5894590626) in [Plana-Solutions/pstack](https://github.com/Plana-Solutions/pstack)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
