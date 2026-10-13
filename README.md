@@ -24,12 +24,12 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Minoo7)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#872](https://github.com/alchemy-run/distilled/pull/872) in [alchemy-run/distilled](https://github.com/alchemy-run/distilled)
-2. 🎉 Merged PR [#3](https://github.com/Minoo7/alchemy-scaleway/pull/3) in [Minoo7/alchemy-scaleway](https://github.com/Minoo7/alchemy-scaleway)
-3. 💪 Opened PR [#3](https://github.com/Minoo7/alchemy-scaleway/pull/3) in [Minoo7/alchemy-scaleway](https://github.com/Minoo7/alchemy-scaleway)
-4. 💪 Opened PR [#2](https://github.com/Minoo7/alchemy-scaleway/pull/2) in [Minoo7/alchemy-scaleway](https://github.com/Minoo7/alchemy-scaleway)
-5. 🎉 Merged PR [#1](https://github.com/Minoo7/alchemy-scaleway/pull/1) in [Minoo7/alchemy-scaleway](https://github.com/Minoo7/alchemy-scaleway)
-6. 💪 Opened PR [#1](https://github.com/Minoo7/alchemy-scaleway/pull/1) in [Minoo7/alchemy-scaleway](https://github.com/Minoo7/alchemy-scaleway)
+1. 💪 Opened PR [#1](https://github.com/Plana-Solutions/distilled/pull/1) in [Plana-Solutions/distilled](https://github.com/Plana-Solutions/distilled)
+2. 💪 Opened PR [#872](https://github.com/alchemy-run/distilled/pull/872) in [alchemy-run/distilled](https://github.com/alchemy-run/distilled)
+3. 🎉 Merged PR [#3](https://github.com/Minoo7/alchemy-scaleway/pull/3) in [Minoo7/alchemy-scaleway](https://github.com/Minoo7/alchemy-scaleway)
+4. 💪 Opened PR [#3](https://github.com/Minoo7/alchemy-scaleway/pull/3) in [Minoo7/alchemy-scaleway](https://github.com/Minoo7/alchemy-scaleway)
+5. 💪 Opened PR [#2](https://github.com/Minoo7/alchemy-scaleway/pull/2) in [Minoo7/alchemy-scaleway](https://github.com/Minoo7/alchemy-scaleway)
+6. 🎉 Merged PR [#1](https://github.com/Minoo7/alchemy-scaleway/pull/1) in [Minoo7/alchemy-scaleway](https://github.com/Minoo7/alchemy-scaleway)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
