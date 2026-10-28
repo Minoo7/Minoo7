@@ -24,12 +24,12 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Minoo7)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Minoo7/superglue/pull/2) in [Minoo7/superglue](https://github.com/Minoo7/superglue)
-2. 🗣 Commented on [#2](https://github.com/Minoo7/superglue/pull/2#issuecomment-6468290862) in [Minoo7/superglue](https://github.com/Minoo7/superglue)
-3. 🚀 Published release [T3 Code 0.0.177 Cloud payload](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/payload-49e56bf36c558b04e0d6a93ab34d09c405a7393e1449535da636db4b584b16ad) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
-4. 💪 Opened PR [#2](https://github.com/Minoo7/superglue/pull/2) in [Minoo7/superglue](https://github.com/Minoo7/superglue)
-5. 🎉 Merged PR [#1](https://github.com/Minoo7/superglue/pull/1) in [Minoo7/superglue](https://github.com/Minoo7/superglue)
-6. 🚀 Published release [T3 Code 0.0.176 Cloud payload](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/payload-379bcd5129eb7029c4255c44b6ce79c067028a88bed9248f6536d498470e2466) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
+1. 🗣 Commented on [#5](https://github.com/Minoo7/superglue/pull/5#issuecomment-6472840445) in [Minoo7/superglue](https://github.com/Minoo7/superglue)
+2. 🎉 Merged PR [#6](https://github.com/Minoo7/superglue/pull/6) in [Minoo7/superglue](https://github.com/Minoo7/superglue)
+3. 💪 Opened PR [#6](https://github.com/Minoo7/superglue/pull/6) in [Minoo7/superglue](https://github.com/Minoo7/superglue)
+4. 🎉 Merged PR [#5](https://github.com/Minoo7/superglue/pull/5) in [Minoo7/superglue](https://github.com/Minoo7/superglue)
+5. 🗣 Commented on [#3](https://github.com/Minoo7/superglue/pull/3#issuecomment-6470036291) in [Minoo7/superglue](https://github.com/Minoo7/superglue)
+6. 💪 Opened PR [#1](https://github.com/Minoo7/workerd/pull/1) in [Minoo7/workerd](https://github.com/Minoo7/workerd)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
