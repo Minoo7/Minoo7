@@ -24,12 +24,12 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Minoo7)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [T3 Code Cloud 0.0.251](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/cloud-v0.0.251) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
-2. 🚀 Published release [Cloud SSH 0.0.251](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/cloud-ssh-v0.0.251) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
-3. 🚀 Published release [T3 Code 0.0.251 Cloud payload](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/payload-053d50bbe3199dd929d1864adb5d9fdc1b21df9f7674786ae7e78b3e4ef87792) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
-4. 🚀 Published release [T3 Code Cloud 0.0.250](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/cloud-v0.0.250) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
-5. 💪 Opened PR [#2](https://github.com/Minoo7/rakazo/pull/2) in [Minoo7/rakazo](https://github.com/Minoo7/rakazo)
-6. 🚀 Published release [T3 Code 0.0.250 Cloud payload](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/payload-47d82ef50de5663cea88c9a43d0167130c973619999a76c1a4b9fc0c6dfeed77) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
+1. 🚀 Published release [T3 Code Cloud 0.0.253](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/cloud-v0.0.253) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
+2. 🚀 Published release [Cloud SSH 0.0.253](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/cloud-ssh-v0.0.253) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
+3. 🚀 Published release [T3 Code 0.0.253 Cloud payload](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/payload-eaa85dae047afb6a4618fd09128473c2115e64fa9f2ff9fe06e2e34c52de30da) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
+4. 🚀 Published release [Cloud SSH 0.0.252](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/cloud-ssh-v0.0.252) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
+5. 🚀 Published release [T3 Code 0.0.252 Cloud payload](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/payload-de7f10ef87a0c617bf73dbbc06ed24500ae13fc113fb5e14a205f386db6621d4) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
+6. 🎉 Merged PR [#4107](https://github.com/elie222/rakazo/pull/4107) in [elie222/rakazo](https://github.com/elie222/rakazo)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
