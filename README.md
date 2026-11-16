@@ -24,12 +24,12 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Minoo7)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#872](https://github.com/alchemy-run/distilled/pull/872) in [alchemy-run/distilled](https://github.com/alchemy-run/distilled)
-2. 💪 Opened PR [#4](https://github.com/Minoo7/t3-pstack/pull/4) in [Minoo7/t3-pstack](https://github.com/Minoo7/t3-pstack)
-3. 🗣 Commented on [#106550](https://github.com/anthropics/claude-code/issues/106550#issuecomment-6849081226) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-4. 🗣 Commented on [#48000](https://github.com/openai/codex/issues/48000#issuecomment-6849081566) in [openai/codex](https://github.com/openai/codex)
-5. ❗ Opened issue [#2553](https://github.com/UsefulSoftwareCo/executor/issues/2553) in [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor)
-6. ❗ Opened issue [#3721](https://github.com/microsoft/apm/issues/3721) in [microsoft/apm](https://github.com/microsoft/apm)
+1. 🚀 Published release [T3 Code Cloud 0.0.266](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/cloud-v0.0.266) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
+2. 🚀 Published release [Cloud SSH 0.0.266](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/cloud-ssh-v0.0.266) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
+3. 🚀 Published release [T3 Code 0.0.266 Cloud payload](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/payload-0f63b63e5b5605a64752c4bf647a07c884cbb8cbe30265971834dcac9f5fa0ec) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
+4. 💪 Opened PR [#6](https://github.com/Minoo7/executor-selfhost-op/pull/6) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
+5. 💪 Opened PR [#5](https://github.com/Minoo7/executor-selfhost-op/pull/5) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
+6. 💪 Opened PR [#4](https://github.com/Minoo7/executor-selfhost-op/pull/4) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
