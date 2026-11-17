@@ -24,12 +24,12 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Minoo7)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [T3 Code Cloud 0.0.266](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/cloud-v0.0.266) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
-2. 🚀 Published release [Cloud SSH 0.0.266](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/cloud-ssh-v0.0.266) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
-3. 🚀 Published release [T3 Code 0.0.266 Cloud payload](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/payload-0f63b63e5b5605a64752c4bf647a07c884cbb8cbe30265971834dcac9f5fa0ec) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
-4. 💪 Opened PR [#6](https://github.com/Minoo7/executor-selfhost-op/pull/6) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
-5. 💪 Opened PR [#5](https://github.com/Minoo7/executor-selfhost-op/pull/5) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
-6. 💪 Opened PR [#4](https://github.com/Minoo7/executor-selfhost-op/pull/4) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
+1. 💪 Opened PR [#8](https://github.com/Minoo7/executor-selfhost-op/pull/8) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
+2. 🎉 Merged PR [#7](https://github.com/Minoo7/executor-selfhost-op/pull/7) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
+3. 💪 Opened PR [#7](https://github.com/Minoo7/executor-selfhost-op/pull/7) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
+4. 🚀 Published release [T3 Code Cloud 0.0.266](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/cloud-v0.0.266) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
+5. 🚀 Published release [Cloud SSH 0.0.266](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/cloud-ssh-v0.0.266) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
+6. 🚀 Published release [T3 Code 0.0.266 Cloud payload](https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/tag/payload-0f63b63e5b5605a64752c4bf647a07c884cbb8cbe30265971834dcac9f5fa0ec) in [Plana-Solutions/t3-cloud-runtime-assets](https://github.com/Plana-Solutions/t3-cloud-runtime-assets)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
