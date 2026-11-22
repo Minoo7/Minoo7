@@ -24,12 +24,12 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Minoo7)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Plana-Solutions/cpa-clickhouse-sink/pull/3) in [Plana-Solutions/cpa-clickhouse-sink](https://github.com/Plana-Solutions/cpa-clickhouse-sink)
-2. 💪 Opened PR [#3](https://github.com/Plana-Solutions/cpa-clickhouse-sink/pull/3) in [Plana-Solutions/cpa-clickhouse-sink](https://github.com/Plana-Solutions/cpa-clickhouse-sink)
-3. ❌ Closed PR [#12](https://github.com/Minoo7/executor-selfhost-op/pull/12) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
-4. 🗣 Commented on [#12](https://github.com/Minoo7/executor-selfhost-op/pull/12#issuecomment-7065720121) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
-5. ❌ Closed PR [#11](https://github.com/Minoo7/executor-selfhost-op/pull/11) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
-6. 🗣 Commented on [#11](https://github.com/Minoo7/executor-selfhost-op/pull/11#issuecomment-7065719664) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
+1. 🎉 Merged PR [#4](https://github.com/Plana-Solutions/cpa-clickhouse-sink/pull/4) in [Plana-Solutions/cpa-clickhouse-sink](https://github.com/Plana-Solutions/cpa-clickhouse-sink)
+2. 💪 Opened PR [#4](https://github.com/Plana-Solutions/cpa-clickhouse-sink/pull/4) in [Plana-Solutions/cpa-clickhouse-sink](https://github.com/Plana-Solutions/cpa-clickhouse-sink)
+3. 🎉 Merged PR [#3](https://github.com/Plana-Solutions/cpa-clickhouse-sink/pull/3) in [Plana-Solutions/cpa-clickhouse-sink](https://github.com/Plana-Solutions/cpa-clickhouse-sink)
+4. 💪 Opened PR [#3](https://github.com/Plana-Solutions/cpa-clickhouse-sink/pull/3) in [Plana-Solutions/cpa-clickhouse-sink](https://github.com/Plana-Solutions/cpa-clickhouse-sink)
+5. ❌ Closed PR [#12](https://github.com/Minoo7/executor-selfhost-op/pull/12) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
+6. 🗣 Commented on [#12](https://github.com/Minoo7/executor-selfhost-op/pull/12#issuecomment-7065720121) in [Minoo7/executor-selfhost-op](https://github.com/Minoo7/executor-selfhost-op)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
