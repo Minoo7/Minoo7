@@ -24,12 +24,12 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Minoo7)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Minoo7/fx0/pull/7) in [Minoo7/fx0](https://github.com/Minoo7/fx0)
-2. 💪 Opened PR [#7](https://github.com/Minoo7/fx0/pull/7) in [Minoo7/fx0](https://github.com/Minoo7/fx0)
-3. 🎉 Merged PR [#4](https://github.com/Plana-Solutions/cpa-clickhouse-sink/pull/4) in [Plana-Solutions/cpa-clickhouse-sink](https://github.com/Plana-Solutions/cpa-clickhouse-sink)
-4. 💪 Opened PR [#4](https://github.com/Plana-Solutions/cpa-clickhouse-sink/pull/4) in [Plana-Solutions/cpa-clickhouse-sink](https://github.com/Plana-Solutions/cpa-clickhouse-sink)
-5. 🎉 Merged PR [#3](https://github.com/Plana-Solutions/cpa-clickhouse-sink/pull/3) in [Plana-Solutions/cpa-clickhouse-sink](https://github.com/Plana-Solutions/cpa-clickhouse-sink)
-6. 💪 Opened PR [#3](https://github.com/Plana-Solutions/cpa-clickhouse-sink/pull/3) in [Plana-Solutions/cpa-clickhouse-sink](https://github.com/Plana-Solutions/cpa-clickhouse-sink)
+1. 🎉 Merged PR [#6](https://github.com/Plana-Solutions/cpa-session-archive/pull/6) in [Plana-Solutions/cpa-session-archive](https://github.com/Plana-Solutions/cpa-session-archive)
+2. 🎉 Merged PR [#5](https://github.com/Plana-Solutions/cpa-session-archive/pull/5) in [Plana-Solutions/cpa-session-archive](https://github.com/Plana-Solutions/cpa-session-archive)
+3. 💪 Opened PR [#6](https://github.com/Plana-Solutions/cpa-session-archive/pull/6) in [Plana-Solutions/cpa-session-archive](https://github.com/Plana-Solutions/cpa-session-archive)
+4. 🎉 Merged PR [#7](https://github.com/Minoo7/fx0/pull/7) in [Minoo7/fx0](https://github.com/Minoo7/fx0)
+5. 💪 Opened PR [#7](https://github.com/Minoo7/fx0/pull/7) in [Minoo7/fx0](https://github.com/Minoo7/fx0)
+6. 🎉 Merged PR [#4](https://github.com/Plana-Solutions/cpa-clickhouse-sink/pull/4) in [Plana-Solutions/cpa-clickhouse-sink](https://github.com/Plana-Solutions/cpa-clickhouse-sink)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
